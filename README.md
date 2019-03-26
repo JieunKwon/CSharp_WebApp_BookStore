@@ -1,5 +1,7 @@
 # CSharp_WebApp_BookStore
 
+@ March 2019 ~ current
+
 
 The purpose of the application
  -------
@@ -44,4 +46,4 @@ Database Structure
 Class Design Diagram
 ----
 
-<img src="classDiagram.png" width="600px">
+<img src="classDiagram.jpg" width="600px">
