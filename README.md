@@ -46,4 +46,4 @@ Database Structure
 Class Design Diagram
 ----
 
-<img src="classDiagram.jpg" width="600px">
+<img src="classdiagram.jpg" width="600px">
