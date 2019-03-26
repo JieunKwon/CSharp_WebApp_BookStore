@@ -35,3 +35,13 @@ Technologies
 	HTML5, CSS, JS, Bootstrap for client side features
 
 
+Database Structure
+-----
+
+<img src="dbDiagram.png" width="600px">
+
+
+Class Design Diagram
+----
+
+<img src="classDiagram.png" width="600px">
