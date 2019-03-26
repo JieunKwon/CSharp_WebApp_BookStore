@@ -11,8 +11,11 @@ The project development environment
 --------
 
 	Language: C#
+
 	Framework: .Net
+
 	IDE: Visual Studio 2017
+
 	Database: SQL server 2017
 
 
@@ -20,8 +23,15 @@ Technologies
 ------
 
 	ADO.NET for SQL Server
+
 	ASP.NET for Web Services
+
 	Arrays and Collections for Data control
+
 	Exception handling
+
 	Classes and Interfaces for OOP
+
 	HTML5, CSS, JS, Bootstrap for client side features
+
+
