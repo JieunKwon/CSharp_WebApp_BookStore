@@ -18,9 +18,9 @@ It gives user instant access to books list and provides books information; book 
 The project development environment
 --------
 
-	Language: C#
+	Language: C# 7.0
 
-	Framework: .Net
+	Framework: .Net Core
 
 	IDE: Visual Studio 2017
 
@@ -35,6 +35,10 @@ Technologies
 	ASP.NET for Web Services
 
 	Arrays and Collections for Data control
+
+	Authentication and Authorization for User security
+
+	Connected and Disconnected Database
 
 	Exception handling
 
@@ -65,3 +69,8 @@ Page Features
 2. Book List View 
 
 <img src="booklist.png" width="600px">
+
+3. My Shopping Cart 
+
+<img src="cart.png" width="600px">
+
