@@ -1,6 +1,6 @@
 # CSharp_WebApp_BookStore
 
-@ March 2019 ~ current
+@ March ~ April 2019 
 
 
 The purpose of the application
@@ -53,3 +53,12 @@ Class Design Diagram
 ----
 
 <img src="classdiagram.jpg" width="600px">
+
+
+Page Features
+------
+
+1. Intro Page
+
+<img src="index.jpg" width="600px">
+
