@@ -74,3 +74,6 @@ Page Features
 
 <img src="cart.png" width="600px">
 
+4. Check out  
+
+<img src="checkout.png" width="600px">
