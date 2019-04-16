@@ -60,5 +60,8 @@ Page Features
 
 1. Intro Page
 
-<img src="index.jpg" width="600px">
+<img src="index.png" width="600px">
 
+2. Book List View 
+
+<img src="booklist.png" width="600px">
