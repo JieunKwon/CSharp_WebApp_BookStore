@@ -30,7 +30,7 @@ The project development environment
 Technologies
 ------
 
-	ADO.NET for SQL Server
+	ADO.NET for SQL Server 2017 
 
 	ASP.NET for Web Services
 
@@ -44,7 +44,7 @@ Technologies
 
 	Classes and Interfaces for OOP
 
-	HTML5, CSS, JS, Bootstrap for client side features
+	HTML5, CSS, JS, Bootstrap 4 for client side features
 
 
 Database Structure
