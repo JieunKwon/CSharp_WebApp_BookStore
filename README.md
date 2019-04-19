@@ -50,13 +50,13 @@ Technologies
 Database Structure
 -----
 
-<img src="dbDiagram.png" width="600px">
+<img src="dbDiagram.png" width="800px">
 
 
 Class Design Diagram
 ----
 
-<img src="classdiagram.jpg" width="600px">
+<img src="classDiagram_2.png" width="600px">
 
 
 Page Features
