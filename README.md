@@ -66,6 +66,12 @@ Page Features
 
 <img src="index.png" width="600px">
 
+<b> Sign Up & Sign In
+ 
+<img src="images/signup.png" width="400px">
+
+<img src="images/signin.png" width="600px">
+
 <b>2. View Books </b> 
 
 <img src="booklist.png" width="600px">
@@ -91,3 +97,17 @@ Page Features
 <img src="images/myorders.png" width="600px" >
 
 
+Admin Page Features
+------
+
+<b>1. Add New Book</b>
+
+<img src="addBook.JPG" width="600px">
+
+<b>2. View Books to update or delete book's information</b> 
+
+<img src="adminListBook.JPG" width="600px">
+
+<b>3. View Orders to update order's transaction</b> 
+
+<img src="orderList.JPG" width="600px">
