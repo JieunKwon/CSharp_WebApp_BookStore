@@ -70,7 +70,7 @@ Page Features
  
 <img src="images/signup.png" width="400px">
 
-<img src="images/signin.png" width="600px">
+<img src="images/signin.png" width="400px">
 
 <b>2. View Books </b> 
 
@@ -102,12 +102,12 @@ Admin Page Features
 
 <b>1. Add New Book</b>
 
-<img src="addBook.JPG" width="600px">
+<img src="images/addBook.JPG" width="600px">
 
 <b>2. View Books to update or delete book's information</b> 
 
-<img src="adminListBook.JPG" width="600px">
+<img src="images/adminListBook.JPG" width="600px">
 
 <b>3. View Orders to update order's transaction</b> 
 
-<img src="orderList.JPG" width="600px">
+<img src="images/orderList.JPG" width="600px">
