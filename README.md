@@ -88,4 +88,4 @@ Page Features
 
 7. My Orders History
 
-<img src="images/myorders.png" width="600px">
+<img src="images/myorders.png" width="600px" border="1px">
