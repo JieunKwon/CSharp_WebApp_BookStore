@@ -62,30 +62,32 @@ Class Design Diagram
 Page Features
 ------
 
-1. Intro Page
+<b>1. Intro Page</b>
 
 <img src="index.png" width="600px">
 
-2. View Books  
+<b>2. View Books </b> 
 
 <img src="booklist.png" width="600px">
 
-3. View Book Details
+<b>3. View Book Details</b>
 
 <img src="bookView.JPG" width="600px">
 
-4. My Shopping Cart 
+<b>4. My Shopping Cart </b>
 
 <img src="cart.png" width="600px">
 
-5. Check out  
+<b>5. Check out  </b>
 
 <img src="checkout.png" width="600px">
 
-6. Review Order
+<b>6. Review Order</b>
 
 <img src="images/orderreview.png" width="600px">
 
-7. My Orders History
+<b>7. My Orders History</b>
 
-<img src="images/myorders.png" width="600px" border="1px">
+<img src="images/myorders.png" width="600px" >
+
+
