@@ -66,14 +66,24 @@ Page Features
 
 <img src="index.png" width="600px">
 
-2. Book List View 
+2. View Books  
 
 <img src="booklist.png" width="600px">
 
-3. My Shopping Cart 
+3. View Book Details
+
+<img src="bookView.JPG" width="600px">
+
+4. My Shopping Cart 
 
 <img src="cart.png" width="600px">
 
-4. Check out  
+5. Check out  
 
 <img src="checkout.png" width="600px">
+
+6. Review Order
+
+<img src="orderreview.png" width="600px">
+
+
