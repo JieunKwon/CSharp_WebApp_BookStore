@@ -84,6 +84,8 @@ Page Features
 
 6. Review Order
 
-<img src="orderreview.png" width="600px">
+<img src="images/orderreview.png" width="600px">
 
+7. My Orders History
 
+<img src="images/myorders.png" width="600px">
