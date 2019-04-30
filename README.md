@@ -97,7 +97,7 @@ Page Features
 <img src="images/myorders.png" width="600px" >
 
 
-Admin Page Features
+Admin Pages
 ------
 
 <b>1. Add New Book</b>
