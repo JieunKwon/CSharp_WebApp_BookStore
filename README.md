@@ -72,25 +72,31 @@ Page Features
 
 <img src="images/signin.png" width="400px">
 
+
 <b>2. View Books </b> 
 
 <img src="booklist.png" width="600px">
+
 
 <b>3. View Book Details</b>
 
 <img src="bookView.JPG" width="600px">
 
+
 <b>4. My Shopping Cart </b>
 
 <img src="cart.png" width="600px">
+
 
 <b>5. Check out  </b>
 
 <img src="checkout.png" width="600px">
 
+
 <b>6. Review Order</b>
 
 <img src="images/orderreview.png" width="600px">
+
 
 <b>7. My Orders History</b>
 
@@ -104,9 +110,11 @@ Admin Pages
 
 <img src="images/addBook.JPG" width="600px">
 
+
 <b>2. View Books to update or delete book's information</b> 
 
 <img src="images/adminListBook.JPG" width="600px">
+
 
 <b>3. View Orders to update order's transaction</b> 
 
