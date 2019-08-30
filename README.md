@@ -32,7 +32,7 @@ Technologies
 
 	ADO.NET for SQL Server 2017 
 
-	ASP.NET for Web Services
+	ASP.NET and Web forms for Web Services
 
 	Arrays and Collections for Data control
 
