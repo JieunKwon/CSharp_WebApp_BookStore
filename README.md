@@ -6,7 +6,7 @@
 The purpose of the application
  -------
  
-This project is aimed to develop an online bookstore web application at the Visual C# and .Net Framework environment. 
+This project is aimed to develop an online bookstore web application at the Visual C# and ASP.NET Core Framework environment. 
 
 
 Description 
