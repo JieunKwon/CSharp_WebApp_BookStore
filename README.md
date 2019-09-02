@@ -20,7 +20,7 @@ The project development environment
 
 	Language: C# 7.0
 
-	Framework: .Net Core
+	Framework: ASP.NET Core
 
 	IDE: Visual Studio 2017
 
@@ -32,7 +32,7 @@ Technologies
 
 	ADO.NET for SQL Server 2017 
 
-	ASP.NET and Web forms for Web Services
+	ASP.NET MVC and Web forms for Web Services
 
 	Arrays and Collections for Data control
 
