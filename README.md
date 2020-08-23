@@ -3,12 +3,18 @@
 @ March ~ April 2019 
 
 <a href="#the-purpose-of-the-application">1. The purpose of the application</a>
-2. Description
-3. The project development environment
-4. Technologies
-5. Database Structure
-6. Class Design Diagram
-7. Page Features
+
+<a href="#Description">2. Description</a>
+
+<a href="#The-project-development-environment">3. The project development environment</a>
+
+<a href="#Technologies">4. Technologies</a>
+
+<a href="#Database-Structure">5. Database Structure</a>
+
+<a href="#Class-Design-Diagram">6. Class Design Diagram</a>
+
+<a href="#Page-Features">7. Page Features</a>
 
 The purpose of the application
  -------
