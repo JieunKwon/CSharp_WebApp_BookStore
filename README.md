@@ -2,7 +2,7 @@
 
 @ March ~ April 2019 
 
-1. The purpose of the application
+<a href="#the-purpose-of-the-application">1. The purpose of the application</a>
 2. Description
 3. The project development environment
 4. Technologies
